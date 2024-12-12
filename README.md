@@ -9,7 +9,7 @@ Don't lose track of time searching...
 <body>
     <h1>About Me</h1>
     <ul>
-        <li>Computer Engineer, specialize in networking</li>
+        <li>Computer Engineer, specialize in networking. </li>
         <li>The project I am into right now has to do with an educational platform. </li>
         <li> Always have a plan that I don't follow eventually... </li>
     </ul>
